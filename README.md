@@ -1,6 +1,6 @@
 # Lyoko NMAP Scanner
 
-Script interactivo en Bash para automatizacion de auditorias de red, descubrimiento de hosts y escaneos de puertos utilizando NMAP.
+Esto lo hice hace años cuando estaba en bachiller y no sabía hacer mucho, pero me encantaba la ciberseguridad y hacer algunas CFT, el escaner es muy sencillo
 
 ## Opciones del Menu
 
